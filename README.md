@@ -1,7 +1,7 @@
  LAPORAN PROYEK TUGAS FINAL
 
  
- 📜 Pendahuluan
+ 📜 Pendahuluan.
 Proyek ini merupakan tugas akhir yang bertujuan untuk membangun aplikasi web berbasis Node.js, Express.js, dan Prisma. Aplikasi ini digunakan untuk mengelola autentikasi pengguna serta menyediakan fitur-fitur yang mendukung pengelolaan data dengan Prisma ORM. Proyek ini juga mendukung deployment menggunakan Docker, sehingga memudahkan dalam proses deployment dan pengelolaan lingkungan aplikasi.
 
 
