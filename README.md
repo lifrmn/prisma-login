@@ -47,7 +47,7 @@ Menjalankan dengan Docker
 ![Screenshot 2025-02-18 210547](https://github.com/user-attachments/assets/ed76d8bf-cc7f-4e8d-91f0-167f57d96f42)
 
 
-CARA BUKA DATA BASE : npx prisma Studio
+CARA BUKA DATA BASE :CODE = npx prisma Studio
 ![Screenshot 2025-02-17 170234](https://github.com/user-attachments/assets/2598a4bf-3b34-4a6d-a8d8-3e77c8238885)
 
 
@@ -61,6 +61,20 @@ CARA BUKA DATA BASE : npx prisma Studio
    4.taskkill /PID <PID> /F
 -Eror prisma generate
 1.npx prisma migrate reset
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -Container Docker Tidak Berjalan
 1.docker ps -a
 2.docker stop <CONTAINER_ID>
